@@ -1,0 +1,15 @@
+C:\Users\clebs\OneDrive\Área de Trabalho\DIO\Curso de C#\Construindo um Sistema de Hospedagem de um Hotel no C#\trilha-net-explorando-desafio\bin\Debug\net7.0\DesafioProjetoHospedagem.exe
+C:\Users\clebs\OneDrive\Área de Trabalho\DIO\Curso de C#\Construindo um Sistema de Hospedagem de um Hotel no C#\trilha-net-explorando-desafio\bin\Debug\net7.0\DesafioProjetoHospedagem.deps.json
+C:\Users\clebs\OneDrive\Área de Trabalho\DIO\Curso de C#\Construindo um Sistema de Hospedagem de um Hotel no C#\trilha-net-explorando-desafio\bin\Debug\net7.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\Users\clebs\OneDrive\Área de Trabalho\DIO\Curso de C#\Construindo um Sistema de Hospedagem de um Hotel no C#\trilha-net-explorando-desafio\bin\Debug\net7.0\DesafioProjetoHospedagem.dll
+C:\Users\clebs\OneDrive\Área de Trabalho\DIO\Curso de C#\Construindo um Sistema de Hospedagem de um Hotel no C#\trilha-net-explorando-desafio\bin\Debug\net7.0\DesafioProjetoHospedagem.pdb
+C:\Users\clebs\OneDrive\Área de Trabalho\DIO\Curso de C#\Construindo um Sistema de Hospedagem de um Hotel no C#\trilha-net-explorando-desafio\obj\Debug\net7.0\DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+C:\Users\clebs\OneDrive\Área de Trabalho\DIO\Curso de C#\Construindo um Sistema de Hospedagem de um Hotel no C#\trilha-net-explorando-desafio\obj\Debug\net7.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clebs\OneDrive\Área de Trabalho\DIO\Curso de C#\Construindo um Sistema de Hospedagem de um Hotel no C#\trilha-net-explorando-desafio\obj\Debug\net7.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Users\clebs\OneDrive\Área de Trabalho\DIO\Curso de C#\Construindo um Sistema de Hospedagem de um Hotel no C#\trilha-net-explorando-desafio\obj\Debug\net7.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Users\clebs\OneDrive\Área de Trabalho\DIO\Curso de C#\Construindo um Sistema de Hospedagem de um Hotel no C#\trilha-net-explorando-desafio\obj\Debug\net7.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\clebs\OneDrive\Área de Trabalho\DIO\Curso de C#\Construindo um Sistema de Hospedagem de um Hotel no C#\trilha-net-explorando-desafio\obj\Debug\net7.0\DesafioProjetoHospedagem.dll
+C:\Users\clebs\OneDrive\Área de Trabalho\DIO\Curso de C#\Construindo um Sistema de Hospedagem de um Hotel no C#\trilha-net-explorando-desafio\obj\Debug\net7.0\refint\DesafioProjetoHospedagem.dll
+C:\Users\clebs\OneDrive\Área de Trabalho\DIO\Curso de C#\Construindo um Sistema de Hospedagem de um Hotel no C#\trilha-net-explorando-desafio\obj\Debug\net7.0\DesafioProjetoHospedagem.pdb
+C:\Users\clebs\OneDrive\Área de Trabalho\DIO\Curso de C#\Construindo um Sistema de Hospedagem de um Hotel no C#\trilha-net-explorando-desafio\obj\Debug\net7.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Users\clebs\OneDrive\Área de Trabalho\DIO\Curso de C#\Construindo um Sistema de Hospedagem de um Hotel no C#\trilha-net-explorando-desafio\obj\Debug\net7.0\ref\DesafioProjetoHospedagem.dll
